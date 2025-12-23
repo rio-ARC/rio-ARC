@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering my skills in Frontend Development and various tech.<br>👯 I’m looking to collaborate on Open-source IoT projects or AI/ML applications with social impact.<br>🤝 I’m looking for help with Advanced Embedded System architectures and optimizing Machine Learning algorithms for edge devices.<br>🌱 I’m currently learning Machine Learning and Data Structures.<br><br>⚡ Fun fact : Exploring Tech is Fun.
+🔭 I’m currently working on mastering my skills in Frontend Development and Electronics.<br>👯 I’m looking to collaborate on Open-source IoT projects or AI/ML applications with social impact.<br>🤝 I’m looking for help with Advanced Embedded System architectures and optimizing Machine Learning algorithms for edge devices.<br>🌱 I’m currently learning Machine Learning and Data Structures.<br><br>⚡ Fun fact : Debugging hardware means probing signals.
+Debugging software means probing assumptions.
+Guess which one was wrong.
 
 
 ## 🌐 Socials:
