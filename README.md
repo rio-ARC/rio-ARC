@@ -4,7 +4,7 @@
 
 
 # 👋 Hi! I am Aritra:
-🔭 I’m currently working on mastering my skills in Frontend Development and Electronics.<br>👯 I’m looking to collaborate on Open-source IoT projects or AI/ML applications with social impact.<br>🤝 I’m looking for help with Advanced Embedded System architectures and optimizing Machine Learning algorithms for edge devices.<br>🌱 I’m currently learning Machine Learning and Data Structures.<br><br>⚡ Fun fact : I hyper-fixate on stuff I'm passionate about.
+🔭 I’m currently working on mastering my skills in Frontend Development and Electronics.<br>👯 I’m looking to collaborate on Open-source IoT projects or AI/ML applications with social impact.<br>🤝 I’m looking for help with Advanced Embedded System architectures and optimizing Machine Learning algorithms for edge devices.<br>🌱 I’m currently learning Machine Learning and Data Structures.<br><br>⚡ Fun fact : I hyper-fixate on stuff I'm passionate about.<br><br>👉 **[View My Portfolio](https://aritra.vercel.app/)**
 
 
 ## 🌐 Socials:
